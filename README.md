@@ -3,9 +3,10 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3.MAP .  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: P1
 
 Descripción: 
+Para este proyecto he seleccionado la página web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo.
 
 Logotipo: 
 
@@ -17,7 +18,7 @@ Miembros
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
+Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
@@ -28,6 +29,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+Las aplicaciones que me han sido asignadas son aquellas en las cuales se facilita la búsqueda de planes de ocio en las cuales es fácil encontrar experiencias que se ajusten a nuestros gustos. 
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
