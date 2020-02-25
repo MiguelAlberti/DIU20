@@ -1,4 +1,4 @@
-# DIU20
+﻿# DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
@@ -10,7 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:    Miguel Albertí Pons 
+ *  Miguel Albertí Pons 
 
 ----- 
 
