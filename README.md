@@ -6,7 +6,7 @@ Grupo: DIU3.MAP  Curso: 2019/20
 Proyecto: P1
 
 Descripción: 
-Para este proyecto he seleccionado la página web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo.
+Para este proyecto he seleccionado la página web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo. Es una página muy completa la cual cuenta con todo tipo de actividades donde tanto gente con pocos recursos como gente dispuesta a gastarse mucho puede encontrar planes.
 
 Logotipo: 
 
