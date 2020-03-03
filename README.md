@@ -1,123 +1,122 @@
 # DIU20
-Pr·cticas DiseÒo Interfaces de Usuario 2019-20 (EconomÌa Colaborativa) 
+Pr√°cticas Dise√±o Interfaces de Usuario 2019-20 (Econom√≠a Colaborativa) 
 
 Grupo: DIU3.MAP  Curso: 2019/20 
 
 Proyecto: P1
 
-DescripciÛn: 
-Para este proyecto he seleccionado la p·gina web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo.
+Descripci√≥n: 
+Para este proyecto he seleccionado la p√°gina web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo.
 
 Logotipo: 
 
 Miembros
- *  Miguel AlbertÌ Pons 
+ *  Miguel Albert√≠ Pons 
 
 ----- 
 
-En esta pr·ctica estudiaremos un caso de plataforma de economÌa colaborativa y realizaremos una propuesta para su diseÒo Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
+En esta pr√°ctica estudiaremos un caso de plataforma de econom√≠a colaborativa y realizaremos una propuesta para su dise√±o Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
-QuÈ es economÌa colaborativa: MartÌnez-Polo, J. (2019). **El fenÛmeno del consumo colaborativo: del intercambio de bienes y servicios a la economÌa de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
+Qu√© es econom√≠a colaborativa: Mart√≠nez-Polo, J. (2019). **El fen√≥meno del consumo colaborativo: del intercambio de bienes y servicios a la econom√≠a de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la pr·ctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
+>>> Este documento es el esqueleto del report final de la pr√°ctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
-# Proceso de DiseÒo 
+# Proceso de Dise√±o 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![MÈtodo UX](img/Competitive.png) 1.a Competitive Analysis
+![M√©todo UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Las aplicaciones que me han sido asignadas son aquellas en las cuales se facilita la b˙squeda de planes de ocio que se ajusten a nuestros gustos y podamos compartir experiencias.
-Este conjunto de aplicaciones se caracterizan por ofrecer una lista de actividades divididas por unos filtros, com˙nmente filtros de tipo de actividad como: deporte, gastronomÌa, arte, solidarias, etc; junto a filtros que acotan la zona geogr·fica donde buscar y filtros para aoctar las fechas.
-Una vez has encontrado la actividad deseada se pueden leer las condiciones generales y los requisitos que exige, finalmente cuando has visto todos los detalles se procede a pagar o a reservar la plaza seg˙n lo exija la actividad.
+Las aplicaciones que me han sido asignadas son aquellas en las cuales se facilita la b√∫squeda de planes de ocio que se ajusten a nuestros gustos y podamos compartir experiencias.
+Este conjunto de aplicaciones se caracterizan por ofrecer una lista de actividades divididas por unos filtros, com√∫nmente filtros de tipo de actividad como: deporte, gastronom√≠a, arte, solidarias, etc; junto a filtros que acotan la zona geogr√°fica donde buscar y filtros para aoctar las fechas.
+Una vez has encontrado la actividad deseada se pueden leer las condiciones generales y los requisitos que exige, finalmente cuando has visto todos los detalles se procede a pagar o a reservar la plaza seg√∫n lo exija la actividad.
 
-![MÈtodo UX](img/Persona.png) 1.b Persona
+![M√©todo UX](img/Persona.png) 1.b Persona
 -----
-La primera persona que he escogido a sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y se ve obligado a trasladarse a ciudades m·s grandes donde la oferta es mayor. En cambio Cristina Pascual es otro perfil, es una persona que ya vive en una ciudad donde hay actividades de todo tipo pero la falta de tiempo (trabajo y estudios) junto a la falta dinero hace que sea difÌcil encontrar actividades que se ajusten tanto en hora como en precio.
+La primera persona que he escogido a sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y se ve obligado a trasladarse a ciudades m√°s grandes donde la oferta es mayor. En cambio Cristina Pascual es otro perfil, es una persona que ya vive en una ciudad donde hay actividades de todo tipo pero la falta de tiempo (trabajo y estudios) junto a la falta dinero hace que sea dif√≠cil encontrar actividades que se ajusten tanto en hora como en precio.
 He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
 
-![MÈtodo UX](img/JourneyMap.png) 1.c User Journey Map
+![M√©todo UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que tambiÈn por encontrar como llegar sin pagar un precio elevado.
-La historia de Cristina Pascual representa a una chica que tiene obsesiÛn por todo tipo de arte pero que las p·ginas de b˙squeda de actividades no ofrecen lo que ella necesita ya que al disponer de un presupuesto tan ajustado es difÌcil realizar las actividades que desea 
+La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que tambi√©n por encontrar como llegar sin pagar un precio elevado.
+La historia de Cristina Pascual representa a una chica que tiene obsesi√≥n por todo tipo de arte pero que las p√°ginas de b√∫squeda de actividades no ofrecen lo que ella necesita ya que al disponer de un presupuesto tan ajustado es dif√≠cil realizar las actividades que desea 
 
-![MÈtodo UX](img/usabilityReview.png) 1.d Usability Review
+![M√©todo UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  RevisiÛn de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificaciÛn de  usabilidad
+>>>  Revisi√≥n de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificaci√≥n de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
-Enlace documento de Usability: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Usability-review-template.xls
-ValoraciÛn final numÈrica:
-83/100
-Comentario sobre la valoraciÛn: 
-Es la primera vez que realizo una valoraciÛn de esta manera y en muchos aspectos he dudado como valorar lo que me pedÌan, me he dado cuenta que apartados como en el de ìformî no era necesario en esta app, ya que, registrarse en la p·gina es muy simple, basta introducir el correo y tu contraseÒa para que todos tus datos de Google se relacionen con la app.
+* Enlace documento de Usability: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Usability-review-template.xls
+* Valoraci√≥n final num√©rica: 83/100
+* Comentario sobre la valoraci√≥n: 
+Es la primera vez que realizo una valoraci√≥n de esta manera y en muchos aspectos he dudado como valorar lo que me ped√≠an, me he dado cuenta que apartados como en el de ‚Äúform‚Äù no era necesario en esta app, ya que, registrarse en la p√°gina es muy simple, basta introducir el correo y tu contrase√±a para que todos tus datos de Google se relacionen con la app.
 
 
 ## Paso 2. UX Design  
 
 
-![MÈtodo UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![M√©todo UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 
->>> Comenta con un diagrama los aspectos m·s destacados a modo de conclusion de la pr·ctica anterior,
+>>> Comenta con un diagrama los aspectos m√°s destacados a modo de conclusion de la pr√°ctica anterior,
 
 
- Interesante | CrÌticas     
+ Interesante | Cr√≠ticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
   
   
   
->>> øQue planteas como "propuesta de valor" para un nuevo diseÒo de aplicaciÛn para economia colaborativa ?
->>> Problema e hipÛtesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseÒo de aplicaciÛn para economia colaborativa te
+>>> ¬øQue planteas como "propuesta de valor" para un nuevo dise√±o de aplicaci√≥n para economia colaborativa ?
+>>> Problema e hip√≥tesis
+>>>  Que planteas como "propuesta de valor" para un nuevo dise√±o de aplicaci√≥n para economia colaborativa te
 >>> (150-200 caracteres)
 
-![MÈtodo UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![M√©todo UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![MÈtodo UX](img/labelling.png) 2.c Labelling 
+![M√©todo UX](img/labelling.png) 2.c Labelling 
 ----
 
 
->>> Identificar tÈrminos para di·logo con usuario  
+>>> Identificar t√©rminos para di√°logo con usuario  
 
-TÈrmino | Significado     
+T√©rmino | Significado     
 | ------------- | -------
-  Loginø?  | acceder a plataforma
+  Login¬ø?  | acceder a plataforma
 
 
-![MÈtodo UX](img/Wireframes.png) 2.d Wireframes
+![M√©todo UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseÒo del layout para Web/movil (organizaciÛn y simulaciÛn ) 
+>>> Plantear el  dise√±o del layout para Web/movil (organizaci√≥n y simulaci√≥n ) 
 
 
 ## Paso 3. Make (Prototyping) 
 
 
-![MÈtodo UX](img/moodboard.png) 3.a Moodboard
+![M√©todo UX](img/moodboard.png) 3.a Moodboard
 -----
 
 
->>> Plantear DiseÒo visual con una guÌa de estilos visual (moodboard) 
+>>> Plantear Dise√±o visual con una gu√≠a de estilos visual (moodboard) 
 
-![MÈtodo UX](img/landing-page.png)  3.b Landing Page
+![M√©todo UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
 >>> Plantear Landing Page 
 
-![MÈtodo UX](img/guidelines.png) 3.c Guidelines
+![M√©todo UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 
-![MÈtodo UX](img/mockup.png)  3.d Mockup
+![M√©todo UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
@@ -126,62 +125,62 @@ TÈrmino | Significado
 ## Paso 4. UX Check (Usability Testing) 
 
 
-![MÈtodo UX](img/ABtesting.png) 4.a A/B Testing
+![M√©todo UX](img/ABtesting.png) 4.a A/B Testing
 ----
 
 
 >>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
 
->>>> Pr·ctica A: 
+>>>> Pr√°ctica A: 
 
 
-![MÈtodo UX](img/usability-testing.png) 4.b User Testing
+![M√©todo UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Usuarios para evaluar pr·cticas 
+>>> Usuarios para evaluar pr√°cticas 
 
 
-| Usuarios | Sexo/Edad     | OcupaciÛn   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| Usuarios | Sexo/Edad     | Ocupaci√≥n   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    |†mÛvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     |†Web        | B 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    |¬†m√≥vil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     |¬†Web        | B 
 
 
-![MÈtodo UX](img/Survey.png). 4.c Cuestionario SUS
+![M√©todo UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacciÛn de cada usuario con el diseÒo (A/B) realizado. Para ello usamos la [hoja de c·lculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacci√≥n de cada usuario con el dise√±o (A/B) realizado. Para ello usamos la [hoja de c√°lculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para m·s informaciÛn, consultar aquÌ sobre la [metodologÌa SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Para m√°s informaci√≥n, consultar aqu√≠ sobre la [metodolog√≠a SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + ValoraciÛn personal 
+>>> Adjuntar captura de imagen con los resultados + Valoraci√≥n personal 
 
 
-![MÈtodo UX](img/usability-report.png) 4.c Usability Report
+![M√©todo UX](img/usability-report.png) 4.c Usability Report
 ----
 
->> AÒadir report de usabilidad para pr·ctica B 
+>> A√±adir report de usabilidad para pr√°ctica B 
 
 
 
-## Paso 5. EvaluaciÛn de Accesibilidad  
+## Paso 5. Evaluaci√≥n de Accesibilidad  
 
 
-![MÈtodo UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+![M√©todo UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
->>> Indica quÈ pretendes evaluar (de accesibilidad) y quÈ resultados has obtenido + ValoraciÛn personal
+>>> Indica qu√© pretendes evaluar (de accesibilidad) y qu√© resultados has obtenido + Valoraci√≥n personal
 
->>> EvaluaciÛn de la Accesibilidad (con simuladores o verificaciÛn de WACG) 
-
-
-
-## ConclusiÛn / ValoraciÛn de las pr·cticas
+>>> Evaluaci√≥n de la Accesibilidad (con simuladores o verificaci√≥n de WACG) 
 
 
->>> (90-150 caracteres) OpiniÛn del proceso de desarrollo de diseÒo siguiendo metodologÌa UX y valoraciÛn (positiva /negativa) de los resultados obtenidos  
+
+## Conclusi√≥n / Valoraci√≥n de las pr√°cticas
+
+
+>>> (90-150 caracteres) Opini√≥n del proceso de desarrollo de dise√±o siguiendo metodolog√≠a UX y valoraci√≥n (positiva /negativa) de los resultados obtenidos  
 
 
 
