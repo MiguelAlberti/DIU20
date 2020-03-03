@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU3.MAP .  Curso: 2019/20 
+Grupo: DIU3.MAP  Curso: 2019/20 
 
 Proyecto: P1
 
@@ -22,42 +22,35 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consum
 
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-Las aplicaciones que me han sido asignadas son aquellas en las cuales se facilita la búsqueda de planes de ocio en las cuales es fácil encontrar experiencias que se ajusten a nuestros gustos. 
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las aplicaciones que me han sido asignadas son aquellas en las cuales se facilita la búsqueda de planes de ocio que se ajusten a nuestros gustos y podamos compartir experiencias.
+Este conjunto de aplicaciones se caracterizan por ofrecer una lista de actividades divididas por unos filtros, comúnmente filtros de tipo de actividad como: deporte, gastronomía, arte, solidarias, etc; junto a filtros que acotan la zona geográfica donde buscar y filtros para aoctar las fechas.
+Una vez has encontrado la actividad deseada se pueden leer las condiciones generales y los requisitos que exige, finalmente cuando has visto todos los detalles se procede a pagar o a reservar la plaza según lo exija la actividad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 
-caracteres)
-
-La primer persona que he escogido a sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentres y  se be obligado a trasladarse a ciudades más grandes donde la oferta es mayor. En cambio Cristina Pascual es otro perfil, es una persona que ya vive en una ciudad donde hay actividades de todo tipo pero la falta de tiempo (trabajo y estudios) junto a la falta dinero hace que sea díficil encontrar actividades que se ajusten tanto en hora como en precio.
-He esogido estos dos perfiles por que son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualemente.
+La primera persona que he escogido a sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y se ve obligado a trasladarse a ciudades más grandes donde la oferta es mayor. En cambio Cristina Pascual es otro perfil, es una persona que ya vive en una ciudad donde hay actividades de todo tipo pero la falta de tiempo (trabajo y estudios) junto a la falta dinero hace que sea difícil encontrar actividades que se ajusten tanto en hora como en precio.
+He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
 La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que también por encontrar como llegar sin pagar un precio elevado.
-La historia de Crisitina Pascual representa a una chica que tiene obsesión por todo tipo de arte pero que las páginas de busqueda de actividades no ofrecen lo que ella necesita ya que al disponer de un presupuesto tan ajustado es dificil relizar las actividades que desea 
+La historia de Cristina Pascual representa a una chica que tiene obsesión por todo tipo de arte pero que las páginas de búsqueda de actividades no ofrecen lo que ella necesita ya que al disponer de un presupuesto tan ajustado es difícil realizar las actividades que desea 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Enlace documento de Usability: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Usability-review-template.xls
+Valoración final numérica:
+83/100
+Comentario sobre la valoración: 
+Es la primera vez que realizo una valoración de esta manera y en muchos aspectos he dudado como valorar lo que me pedían, me he dado cuenta que apartados como en el de “form” no era necesario en esta app, ya que, registrarse en la página es muy simple, basta introducir el correo y tu contraseña para que todos tus datos de Google se relacionen con la app.
 
 
 ## Paso 2. UX Design  
