@@ -46,7 +46,7 @@ La historia de Cristina Pascual representa a una chica que tiene obsesión por t
 ----
 * Enlace documento de Usability: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Usability-review-template.xls
 * Valoración final numérica: 83/100
-* Comentario sobre la valoración: Es la primera vez que realizo una valoración de esta manera y en muchos puntos he dudado como valorar lo que me pedían, me he dado cuenta que apartados como en el de “form” no era necesario en esta app, ya que, registrarse en la página es muy simple, basta introducir el correo y tu contraseña para que todos tus datos de Google se relacionen con la app.
+* Comentario sobre la valoración: Es la primera vez que realizo una valoración de esta manera y en muchos puntos he dudado como valorar lo que me pedían, me he dado cuenta que apartados como en el de “form” no era necesario en esta app, ya que, registrarse en la página es muy simple, basta introducir el correo y tu contraseña para que todos tus datos de Google se relacionen con la app. Pese haber obtenido una buena puntuación tiene muchos aspectos a mejorar, sobretodo si quiere tener una comunidad que se comunique con facilidad a través de la app.
 
 
 ## Paso 2. UX Design  
