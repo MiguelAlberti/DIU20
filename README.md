@@ -34,15 +34,15 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-* La primera persona que he escogido a sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y originales y se ve obligado a trasladarse a ciudades más grandes donde la oferta es mayor. 
-* En cambio Cristina Pascual es otro perfil, es una persona que ya vive en una ciudad donde hay actividades de todo tipo pero la falta de tiempo (trabajo y estudios) junto a la falta dinero hace que sea difícil encontrar actividades que se ajusten tanto en hora como en precio.
+>>> La primera persona que he escogido a sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y originales y se ve obligado a trasladarse a ciudades más grandes donde la oferta es mayor. 
+>>> En cambio Cristina Pascual es otro perfil, es una persona que ya vive en una ciudad donde hay actividades de todo tipo pero la falta de tiempo (trabajo y estudios) junto a la falta dinero hace que sea difícil encontrar actividades que se ajusten tanto en hora como en precio.
 
-* He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
+>>> He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-* La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que también por encontrar como llegar sin pagar un precio elevado por el trasporte.
-* La historia de Cristina Pascual representa a una chica que tiene obsesión por todo tipo de arte pero que las páginas de búsqueda de actividades no ofrecen lo que ella necesita ya que al disponer de un presupuesto tan ajustado es difícil realizar las actividades que desea, esta chica refleja a muchos estudiantes que como trabajan y estudian disponen de muy poco tiempo libre.
+>>> La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que también por encontrar como llegar sin pagar un precio elevado por el trasporte.
+>>> La historia de Cristina Pascual representa a una chica que tiene obsesión por todo tipo de arte pero que las páginas de búsqueda de actividades no ofrecen lo que ella necesita ya que al disponer de un presupuesto tan ajustado es difícil realizar las actividades que desea, esta chica refleja a muchos estudiantes que como trabajan y estudian disponen de muy poco tiempo libre.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
