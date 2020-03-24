@@ -61,7 +61,7 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
+* FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pdf
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
@@ -80,8 +80,8 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 -----
 
 Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones.
-* User/task matrix: 
-* SiteMap: 
+* User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf
+* SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
