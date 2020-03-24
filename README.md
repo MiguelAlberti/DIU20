@@ -80,7 +80,8 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 -----
 
 Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones.
-* Para acceder al User/task matrix: 
+* User/task matrix: 
+* SiteMap: 
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
