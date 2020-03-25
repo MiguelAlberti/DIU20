@@ -77,8 +77,7 @@ Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
+Labelling: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
@@ -87,8 +86,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+* Bodetos Lo-Fi: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Bocetos%20%20Lo-Fi.doc.pdf
 
 ## Paso 3. Make (Prototyping) 
 
