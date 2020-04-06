@@ -9,7 +9,7 @@ Descripción:
 Para este proyecto he seleccionado la página web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo. Es una página muy completa cuenta con todo tipo de actividades donde tanto gente con pocos recursos como gente dispuesta a gastarse mucho puede encontrar planes.
 
 Logotipo: 
-![Logo fever](img/Fever_Logo.jpg)
+![Logo fever](img/Fever_Logo.png)
 
 Miembros
  *  Miguel Albertí Pons 
