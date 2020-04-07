@@ -14,6 +14,12 @@ Finalmente el **Site Map** es la técnica más útil en la etapa final.
 
 ## Propuesta de elementos de diseño o patrones a usar 
 
+#### Mostrar las características principales 
+Para que los usuarios puedan ver las funcionalidades principales una vez abran la aplicación podremos cuatro botones en la parte inferior de la aplicación: Buscar, Añadir actividad, Mis actividades y Perfil; estos botones no contendrán texto sino que utilizaremos símbolos que se usan en otras aplicaciones para que sea totalmente intuitivo y el usuario no tenga que aprender otros símbolos.
+Además en la parte restante de la pantalla ya aparecerán actividades de la ciudad seleccionada en el registro y si ya se hubierán usado filtros en anteriores búsquedas se guardarían y se aplicarián al cargar la página.
+
+#### Navegación dentro de la apliaciones
+
 
 ## Historia en Video del UX Case Study
 
