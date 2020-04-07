@@ -23,8 +23,18 @@ La navegación dentro de la aplicación:
  - En todas las páginas de la aplicación siempre estarán visibles las cuatro opciones nombradas en la página anterior y se podrá acceder a ellas pulsandolas.
  - Para navegar dentro de las diferentes pantallas se mantendra el estanr usado por la aplicaciones de android, es decir, según como deslices el dedo la página se deslizará vertical o horizontalmene.
  - En todas las pantallas de la aplicación usando el botón disponible en todos los dispositivos android de 'Atrás' volveremos a la página principal, página que mantendra las actividades de la última búsqueda. Tendremos varias excepciones:
-     * Si nos encontramos dentro de una actividad a la cual hemos accedido por 'Mis Actividades' volveremos a esta página y no a la principal, será necesario darle dos veces al botón a'Atrás'.
-     * Si estamos en el momento de pago y volvemos atrás volveremos a la actividad, será necesario darle dos veces para volver a la principal
+     * Si nos encontramos dentro de una actividad a la cual hemos accedido por 'Mis Actividades' volveremos a esta página y no a la principal, será necesario darle dos veces al botón 'Atrás'.
+     * Si estamos en el momento de pago y volvemos atrás volveremos a la actividad, será necesario darle dos veces para volver a la página principal
+
+#### Formas de pago 
+Una vez un usuario se ha decantado por una aplicación podrá acceder a pagarla pulsando el botón 'Compra Ahora' el cual le direccionará a una página donde le aparecerán las siguientes maneras de pagar:
+- PayPal
+- Visa
+- Canjear bono
+- Master Card 
+- Cuenta Corriente 
+De estas cinco maneras de pago saldrá como seleccionada la que tenga establecida en 'Perfil' -> 'Mis preferencias' -> 'Métodos de Pago', página en la cual podrá agregar, modificar y eliminar en cualquier momento cualquier método de pago. Esto evitará que cada vez que el usuarioo quiera pagar una actividad deba seleccionar e introducir los datos.
+
 
 
 ## Historia en Video del UX Case Study
