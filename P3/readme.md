@@ -32,7 +32,7 @@ Una vez un usuario se ha decantado por una aplicación podrá acceder a pagarla 
 - Visa
 - Canjear bono
 - Master Card 
-- Cuenta Corriente 
+- Cuenta Corriente  
 De estas cinco maneras de pago saldrá como seleccionada la que tenga establecida en 'Perfil' -> 'Mis preferencias' -> 'Métodos de Pago', página en la cual podrá agregar, modificar y eliminar en cualquier momento cualquier método de pago. Esto evitará que cada vez que el usuarioo quiera pagar una actividad deba seleccionar e introducir los datos.
 
 
