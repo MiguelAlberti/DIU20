@@ -35,6 +35,14 @@ Una vez un usuario se ha decantado por una aplicación podrá acceder a pagarla 
 - Cuenta Corriente  
 De estas cinco maneras de pago saldrá como seleccionada la que tenga establecida en 'Perfil' -> 'Mis preferencias' -> 'Métodos de Pago', página en la cual podrá agregar, modificar y eliminar en cualquier momento cualquier método de pago. Esto evitará que cada vez que el usuarioo quiera pagar una actividad deba seleccionar e introducir los datos.
 
+#### Registro
+El registro será muy sencillo y se podrá realizar de dos formas:
+- Si se tiene una cuenta google se podrá acceder introduciendo el correo y la correspondiente contraseña y seguidamente verificando el correo que enviaremos a su cuenta, nostros nos encargaremos de recoger los datos y añadirselos al perfil de fever.com
+- Si no se tiene cuenta google se tendra que rellenar un formulario que tendrá las soguientes características:
+    * Los errores en el formulario se mostrarán en tiempo real y no se esperara al final 
+    * El teclado que se mostrará coincidirá con las entradas de texto requeridas, es decir, en el caso que se tenga que introducir un número de teléfono aparecerá el teclado numérico.
+    
+
 
 
 ## Historia en Video del UX Case Study
