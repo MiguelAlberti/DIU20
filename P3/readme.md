@@ -20,9 +20,9 @@ Además en la parte restante de la pantalla ya aparecerán actividades de la ciu
 
 #### Navegación dentro de la apliaciones
 La navegación dentro de la aplicación: 
- - En todas las páginas de la aplicación siempre estarán visibles las cuatro opciones nombradas en la página anterior y se podrá acceder a ellas pulsandolas.
- - Para navegar dentro de las diferentes pantallas se mantendra el estanr usado por la aplicaciones de android, es decir, según como deslices el dedo la página se deslizará vertical o horizontalmene.
- - En todas las pantallas de la aplicación usando el botón disponible en todos los dispositivos android de 'Atrás' volveremos a la página principal, página que mantendra las actividades de la última búsqueda. Tendremos varias excepciones:
+ - En todas las páginas de la aplicación siempre estarán visibles las cuatro opciones nombradas en la página anterior y se podrá acceder a ellas pulsándolas.
+ - Para navegar dentro de las diferentes pantallas se mantendrá el estandar usado por la aplicaciones de android, es decir, según como deslices el dedo la página se deslizará vertical o horizontalmene.
+ - En todas las pantallas de la aplicación usando el botón disponible en todos los dispositivos Android de 'Atrás' volveremos a la página principal, página que mantendrá las actividades de la última búsqueda. Tendremos varias excepciones:
      * Si nos encontramos dentro de una actividad a la cual hemos accedido por 'Mis Actividades' volveremos a esta página y no a la principal, será necesario darle dos veces al botón 'Atrás'.
      * Si estamos en el momento de pago y volvemos atrás volveremos a la actividad, será necesario darle dos veces para volver a la página principal
 
@@ -33,14 +33,20 @@ Una vez un usuario se ha decantado por una aplicación podrá acceder a pagarla 
 - Canjear bono
 - Master Card 
 - Cuenta Corriente  
-De estas cinco maneras de pago saldrá como seleccionada la que tenga establecida en 'Perfil' -> 'Mis preferencias' -> 'Métodos de Pago', página en la cual podrá agregar, modificar y eliminar en cualquier momento cualquier método de pago. Esto evitará que cada vez que el usuarioo quiera pagar una actividad deba seleccionar e introducir los datos.
+De estas cinco maneras de pago saldrá como seleccionada la que tenga establecida en 'Perfil' -> 'Mis preferencias' -> 'Métodos de Pago', página en la cual podrá agregar, modificar y eliminar en cualquier momento cualquier método de pago. Esto evitará que cada vez que el usuario quiera pagar una actividad deba seleccionar e introducir los datos.
 
 #### Registro
 El registro será muy sencillo y se podrá realizar de dos formas:
-- Si se tiene una cuenta google se podrá acceder introduciendo el correo y la correspondiente contraseña y seguidamente verificando el correo que enviaremos a su cuenta, nostros nos encargaremos de recoger los datos y añadirselos al perfil de fever.com
-- Si no se tiene cuenta google se tendra que rellenar un formulario que tendrá las soguientes características:
+- Si se tiene una cuenta google se podrá acceder introduciendo el correo y la correspondiente contraseña y seguidamente verificando el correo que enviaremos a su cuenta, nostros nos encargaremos de recoger los datos y añadírselos al perfil de fever.
+- Si no se tiene cuenta google se tendrá que rellenar un formulario que tendrá las siguientes características:
     * Los errores en el formulario se mostrarán en tiempo real y no se esperara al final 
     * El teclado que se mostrará coincidirá con las entradas de texto requeridas, es decir, en el caso que se tenga que introducir un número de teléfono aparecerá el teclado numérico.
+   
+#### Usabilidad y facilidad de compresión
+ - En toda la aplicación se utilizará un vocabulario simple e intuitivo con frases como: 'Saber más' o 'Compra Ahora' y en ningún caso se utilizará terminología complicada, se puede dar el caso que dentro de la descripción de una actividad los usuarios si que usen vocabulario o términos de algún tema en específico
+ - Se contará con etiquetas de texto y teclas visuales para conseguir que la aplicación sea mas atractiva visualmente y a la vez más intuitiva de usar 
+ - Como hemos nombrado anteriormente  facilidad a la hora de agregar y administrar formas de pago 
+ - Si durante el uso de la aplicación se accede a otras aplicaciones o se sale de la misma sin llegar a cerrarla se mantendrá la página en la cual estaba el usuario 
     
 
 
