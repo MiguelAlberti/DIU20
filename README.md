@@ -107,7 +107,7 @@ Esta herramienta nos permite ver que pasos siguie el usuario  y que ocurre en su
 * En el journey Map de Pedro nos queríamos centrar en que pasos que tenia que dar un usuario para conseguir reservar la actividad que quisiera y como llego a encontrar fever.com, Pedro encontro la aplicación por mediante un portal de internet y tuvo dificultades en encontrar pack de actividades y en poder aplicar filtros que le permitiesen encontrar actividades rápidamente en los dias que quería.  
 * En el jouney Map de Cristina nos centramos en como una joven emprendedora quiere publicar actividades de su empresa para poder llegar a más gente, Cristina encontró problemas a la hora de llevar a cabo el registro de una actividad o las dificultades de comunicar cambios de hora o la propia cancelación del evento en el caso de que no contase con suficientes asistentes.
 
-### Usability Review
+#### Usability Review
 En el Usability Review nos centramos en la evaluación de la página de fever.com desde el punto de vista de un experto el resultado fue una puntuación de 83/100 y ver en que puntos se podría mejorar la página.    
     
 Una vez realizamos estas técnicas pasamos a la etapa de diseño de nuestro aplicación para conseguir mejorar la página de fever.com, para ello hemos utilizado varias técnicas 
@@ -121,6 +121,10 @@ Esta técnica nos ha servido para recoger de una forma visual las críticas, los
 Gracias a las ideas recogidas en la etapa anterior procedimos a crear una matriz donde plasmamos todas las tareas a realizar e indicando cuales serían las más críticas. En esta matriz aparecen tareas de la nueva propuesta como crear una ventana de comentarios y de valoración o tareas tan críticas y obvias como publicar actividad además de las tareas se indica los grupos de individuos que identificamos al crear a las personas, consumidores y productores, y que tareas son más cruciales para cada grupo de usuarios.   
 
 El SiteMap es una forma visual de observar como será la navegación dentro de nuestra página aplicación, pero no solo refleja la navegación sino que hemos añadido el **labelling**, es decir las palabras e iconos que tendrán nuestros bocetos/aplicación y que significado tiene cada uno. Para conseguir un labelling intuitivo y facil de entender tuvimos que ver los problemas con los que se habían encontrado nuestros usuarios e investigar como hacerlos, nos decantamos por un lenguaje sencillo y la utilización de iconos presentes en muchas otras aplicaciones para que fuesen intuitivos y el usuario no tuviese que aprender nueva terminología a asignar iconos a nuevos conceptos.
+
+#### Bocetos Lo-fi 
+
+En esta etapa recogimos toda la información generada en las etapas anteriores para empezar la etapa de diseño, realizamos unos primeros bocetos poco específicos donde se especificaba donde estarían los botones, imagenes, textos y demás componentes de nuestra página web. Después de los primeros bocetos tuvimos un reunión con la profesora en la cual nos dio su opinión y los problemas de la primera versión, gracias a ello llevamos a cabo una corrección de los bocetos para conseguir una versión próxima a la versión final.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
