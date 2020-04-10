@@ -97,18 +97,18 @@ Término | Significado
 
 #### Introducción
 
-En la asignatura de DIU nos dieron la oportunidad de mejorar una página de organización y búsqueda de actividades de ocio, para ello cada alumno escogió una página web que quisiese mejorar, en mi caso me he decantado por fever.com, página que creo que tiene muchos puntos positivos pero que a partir de las técnicas que hemos usado también he visto los defectos que tiene.
+En la asignatura de DIU nos dieron la oportunidad de mejorar una página de organización y búsqueda de actividades de ocio, para ello cada alumno escogió una página web, en mi caso me he decantado por fever.com, página que creo que tiene muchos puntos positivos pero que a partir de las técnicas que hemos usado también he visto los defectos que tiene y las cosas a mejorar.
 
 #### Personas 
-En primer lugar creamos los perfiles de dos personas, Pedro y Cristina, el objetivo era conseguir dos usuarios posibles de nuestro producto final, estas dos personas ficticias no fuerón creadas al azar sino que reúnen una serie de características que muy posiblemente tengan los usuarios finales de nuestra aplicación, la creación de estos dos usuarios nos ayudo a responder a la pregunta de "¿Para quién diseñamos?" , podemos ver que cada uno de los usuarios diseñados corresponde a un grupo mayor, en este caso los grupos son fácilmente identificables, los productores (proponen actividades) y los consumidores (se apuntan a las actividades).
+En primer lugar creamos los perfiles de dos personas, Pedro y Cristina, el objetivo era conseguir dos usuarios potenciales de nuestro producto final, estas dos personas ficticias no fuerón creadas al azar sino que reúnen una serie de características que muy posiblemente tengan los usuarios finales de nuestra aplicación, la creación de estos dos usuarios nos ayudo a responder a la pregunta de "¿Para quién diseñamos?" ya que identificamos dos grupos de usuarios, los productores a los que representará Cristina y son aquellos que publican actividades y los consumidores que son aquellos que se apuntan a actividades y están representados por Pedro.
 
 #### User Journey Map
-Esta herramienta nos permite ver que pasos y que ocurre en la mente de un usuario cuando usa nuestra aplicación, creamos dos User journey Map, uno para Pedro y otro para Crisitina para ver dos situaciones disitintas, una de publicación de actividad y otra de búsqueda.
-* En el journey Map de Pedro nos queríamos centrar en que pasos que tenia que dar un usuario para conseguir reservar la actividad que quisiera, Pedro tuvo dificultades en encontrar pack de actividades y en poder aplicar filtros que le permitiesen encontrar actividades rápidamente en los dias que quería.  
-* En el jouney Map de Cristina nos centramos en como una joven emprendedora quiere publicar actividades de su empresa para poder llegar a más gente, Cristina se encontró con problemas como lo costoso que era llevar a cabo el registro de una actividad o las dificultades de comunicar cambios de hora o la propia cancelación del evento en el caso de que no contase con suficientes asistentes.
+Esta herramienta nos permite ver que pasos siguie el usuario  y que ocurre en su mente cuando usa nuestra aplicación, creamos dos User journey Map, uno para Pedro y otro para Crisitina para ver dos situaciones disitintas, una de publicación de actividad y otra de búsqueda.
+* En el journey Map de Pedro nos queríamos centrar en que pasos que tenia que dar un usuario para conseguir reservar la actividad que quisiera y como llego a encontrar fever.com, Pedro encontro la aplicación por mediante un portal de internet y tuvo dificultades en encontrar pack de actividades y en poder aplicar filtros que le permitiesen encontrar actividades rápidamente en los dias que quería.  
+* En el jouney Map de Cristina nos centramos en como una joven emprendedora quiere publicar actividades de su empresa para poder llegar a más gente, Cristina encontró problemas a la hora de llevar a cabo el registro de una actividad o las dificultades de comunicar cambios de hora o la propia cancelación del evento en el caso de que no contase con suficientes asistentes.
 
 ### Usability Review
-En el Usability Review nos centramos en la evaluación de la página de fever.com desde el punto de vista de un experto el resultado fue una puntuación sobre cien y ver en que puntos se podría mejorar la página.    
+En el Usability Review nos centramos en la evaluación de la página de fever.com desde el punto de vista de un experto el resultado fue una puntuación de 83/100 y ver en que puntos se podría mejorar la página.    
     
 Una vez realizamos estas técnicas pasamos a la etapa de diseño de nuestro aplicación para conseguir mejorar la página de fever.com, para ello hemos utilizado varias técnicas 
 
