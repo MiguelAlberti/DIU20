@@ -124,7 +124,7 @@ El SiteMap es una forma visual de observar como será la navegación dentro de n
 
 #### Bocetos Lo-fi 
 
-En esta etapa recogimos toda la información generada en las etapas anteriores para empezar la etapa de diseño, realizamos unos primeros bocetos poco específicos donde se especificaba donde estarían los botones, imagenes, textos y demás componentes de nuestra página web. Después de los primeros bocetos tuvimos un reunión con la profesora en la cual nos dio su opinión y los problemas de la primera versión, gracias a ello llevamos a cabo una corrección de los bocetos para conseguir una versión próxima a la versión final.
+En esta etapa recogimos toda la información generada en las etapas anteriores para empezar la etapa de diseño, realizamos unos primeros bocetos poco específicos donde se especificaba donde estarían los botones, imagenes, textos y demás componentes de nuestra aplicación además todos las nuevas ideas recogidas en el **task matrix** como una ventanda de opiniones, valoraciones en todas las actividades o notificaciones de actividades que sufriesen modificaciones. Después de los primeros bocetos tuvimos un reunión con la profesora en la cual nos dio su opinión y los problemas de la primera versión, gracias a ello llevamos a cabo una corrección de los bocetos para conseguir una versión próxima a la versión final.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
