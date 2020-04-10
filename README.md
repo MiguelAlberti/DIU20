@@ -62,7 +62,7 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-* FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pd
+* FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pdf
 
 A partir del análisis de la etapa anterior y de haber realizado la feedback capture grid hemos encontrado muchos puntos a mejorar en la app fever.com, pero nos centraremos principalmente en los aspectos de chat, valoraciones, notificaciones y publicar actividades. En primer lugar realizaremos un sistema de nitificaciones tanto de actividades en las que estemos apuntados y sufran modificaciones como dar la posibilidad de suscriberse a algun tipo de actividad en específico y recibir notificaciones cuando se publiquen nuevas actividades. En segundo lugar creamos un sistema de valoraciones y comentarios presente en todas las actividades no como actualemente que solo esta presente en algunas y finalmente simplificar el proceso de de publicar una publicación estableciendo unos campos clave obligatorio sin tener que pasar por un registro  específico anterior.
 
@@ -95,8 +95,32 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+#### Introducción
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+En la asignatura de DIU nos dieron la oportunidad de mejorar una página de organización y búsqueda de actividades de ocio, para ello cada alumno escogió una página web que quisiese mejorar, en mi caso me he decantado por fever.com, página que creo que tiene muchos puntos positivos pero que a partir de las técnicas que hemos usado también he visto los defectos que tiene.
+
+#### Personas 
+En primer lugar creamos los perfiles de dos personas, Pedro y Cristina, el objetivo era conseguir dos usuarios posibles de nuestro producto final, estas dos personas ficticias no fuerón creadas al azar sino que reúnen una serie de características que muy posiblemente tengan los usuarios finales de nuestra aplicación, la creación de estos dos usuarios nos ayudo a responder a la pregunta de "¿Para quién diseñamos?" , podemos ver que cada uno de los usuarios diseñados corresponde a un grupo mayor, en este caso los grupos son fácilmente identificables, los productores (proponen actividades) y los consumidores (se apuntan a las actividades).
+
+#### User Journey Map
+Esta herramienta nos permite ver que pasos y que ocurre en la mente de un usuario cuando usa nuestra aplicación, creamos dos User journey Map, uno para Pedro y otro para Crisitina para ver dos situaciones disitintas, una de publicación de actividad y otra de búsqueda.
+* En el journey Map de Pedro nos queríamos centrar en que pasos que tenia que dar un usuario para conseguir reservar la actividad que quisiera, Pedro tuvo dificultades en encontrar pack de actividades y en poder aplicar filtros que le permitiesen encontrar actividades rápidamente en los dias que quería.  
+* En el jouney Map de Cristina nos centramos en como una joven emprendedora quiere publicar actividades de su empresa para poder llegar a más gente, Cristina se encontró con problemas como lo costoso que era llevar a cabo el registro de una actividad o las dificultades de comunicar cambios de hora o la propia cancelación del evento en el caso de que no contase con suficientes asistentes.
+
+### Usability Review
+En el Usability Review nos centramos en la evaluación de la página de fever.com desde el punto de vista de un experto el resultado fue una puntuación sobre cien y ver en que puntos se podría mejorar la página.    
+    
+Una vez realizamos estas técnicas pasamos a la etapa de diseño de nuestro aplicación para conseguir mejorar la página de fever.com, para ello hemos utilizado varias técnicas 
+
+#### Feedback Capture Grid
+
+Esta técnica nos ha servido para recoger de una forma visual las críticas, los elementos de interés, propuestas de usuario y ideas nuestras que deberían aplicarse a la nueva página, de todo en análisis los puntos a destacar son la necesidad de un sistema de valoración para todas las actividades junto a un sistema de comentarios y la posibilidad de poder crear una chat para que los usuarios puedan interactuar entre ellos.
+
+#### User task Matrix & Sitemap
+
+Gracias a las ideas recogidas en la etapa anterior procedimos a crear una matriz donde plasmamos todas las tareas a realizar e indicando cuales serían las más críticas. En esta matriz aparecen tareas de la nueva propuesta como crear una ventana de comentarios y de valoración o tareas tan críticas y obvias como publicar actividad además de las tareas se indica los grupos de individuos que identificamos al crear a las personas, consumidores y productores, y que tareas son más cruciales para cada grupo de usuarios.   
+
+El SiteMap es una forma visual de observar como será la navegación dentro de nuestra página aplicación, pero no solo refleja la navegación sino que hemos añadido el **labelling**, es decir las palabras e iconos que tendrán nuestros bocetos/aplicación y que significado tiene cada uno. Para conseguir un labelling intuitivo y facil de entender tuvimos que ver los problemas con los que se habían encontrado nuestros usuarios e investigar como hacerlos, nos decantamos por un lenguaje sencillo y la utilización de iconos presentes en muchas otras aplicaciones para que fuesen intuitivos y el usuario no tuviese que aprender nueva terminología a asignar iconos a nuevos conceptos.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
