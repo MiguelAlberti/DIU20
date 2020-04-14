@@ -49,6 +49,8 @@ He escogido estos dos perfiles porque son casos bastante diferentes y porque cre
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+* Enlace Escenarios: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Escenarios.pdf  
+
 La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que también por encontrar como llegar sin pagar un precio elevado por el trasporte, también intenta plasmar la falta de actividades bien sean de ocio o de otro tipo que hay en pueblos con un número de habitantes significativo.  
 
 ![Escenario Pedro](img/Pedro_Escenario.png)
@@ -57,7 +59,7 @@ La historia de Cristina Pascual representa a una chica que ha acabado una carrer
 
 ![Escenario Cristina](img/Cristina_Escenario.pnmg.png)
 
-* Enlace Escenarios: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Escenarios.pdf
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -81,28 +83,21 @@ A partir del análisis de la etapa anterior y de haber realizado la feedback cap
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+* User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf  
+* SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 
 Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones. Pero al tener dos tipos de usuarios he decidido usar la técnica de User/task matrix.  
 
-* User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf  
 ![Task Matrix](img/TaskMatrix.png)
 
-* SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 ![SiteMap](img/SiteMap.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
-
-
-Labelling: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+* Labelling: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
 * Bodetos Lo-Fi: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Bocetos%20%20Lo-Fi.pdf
 
 ## Paso 3. Mi equipo UX-Case Study 
