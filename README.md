@@ -83,10 +83,11 @@ A partir del análisis de la etapa anterior y de haber realizado la feedback cap
 -----
 
 Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones. Pero al tener dos tipos de usuarios he decidido usar la técnica de User/task matrix.
+
 * User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf
+![Task Matrix](img/TaskMatrix.png)
+
 * SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf
-
-
 ![SiteMap](img/SiteMap.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
