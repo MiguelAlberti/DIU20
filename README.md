@@ -98,7 +98,7 @@ Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para 
 ----
 * Labelling: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 
-![Labelling](img/labelling.png)
+![Labelling](img/Labelling.jpg)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
