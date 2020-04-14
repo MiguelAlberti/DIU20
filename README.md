@@ -35,25 +35,25 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-* La primera persona que he escogido ha sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y originales y se ve obligado a trasladarse a ciudades más grandes donde la oferta es mayor. 
+La primera persona que he escogido ha sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y originales y se ve obligado a trasladarse a ciudades más grandes donde la oferta es mayor.  
 
 ![Perfil Pedro](img/Pedro_Perfil.png)
 
-* En cambio Cristina Pascual tiene otro perfil, es una chica que ya tiene estudios e intenta emprender y crear una empresa capaz de organizar o publicitar eventos culturales, este tipo de usuarios representan a un conjunto de gente que a través de plataformas ya existentes quieren hacerse un hueco en el mercado.
+En cambio Cristina Pascual tiene otro perfil, es una chica que ya tiene estudios e intenta emprender y crear una empresa capaz de organizar o publicitar eventos culturales, este tipo de usuarios representan a un conjunto de gente que a través de plataformas ya existentes quieren hacerse un hueco en el mercado.  
 
 ![Perfil Cristina](img/Crisitina_Perfil.png)
 
-* Enlace personas: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Personas.pdf
+Enlace personas: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Personas.pdf   
 
->>> He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
+He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-* La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que también por encontrar como llegar sin pagar un precio elevado por el trasporte, también intenta plasmar la falta de actividades bien sean de ocio o de otro tipo que hay en pueblos con un número de habitantes significativo.
+La historia de Pedro Borras la he escogido para reflejar todos los problemas que tiene una persona que vive en un pueblo alejado de grandes ciudades donde no solo debe preocuparse por encontrar la actividad adecuada sino que también por encontrar como llegar sin pagar un precio elevado por el trasporte, también intenta plasmar la falta de actividades bien sean de ocio o de otro tipo que hay en pueblos con un número de habitantes significativo.  
 
 ![Escenario Pedro](img/Pedro_Escenario.png)
 
-* La historia de Cristina Pascual representa a una chica que ha acabado una carrera y un master y con lo aprendido quiere lograr crear una empresa que tenga relación con su pasión, el arte y eventos culturales de todo tipo, en el escenario podemos ver como cristina quiere hacerse hueco en el mercado y a través de fever consigue publicar un evento organizado por ella.
+La historia de Cristina Pascual representa a una chica que ha acabado una carrera y un master y con lo aprendido quiere lograr crear una empresa que tenga relación con su pasión, el arte y eventos culturales de todo tipo, en el escenario podemos ver como cristina quiere hacerse hueco en el mercado y a través de fever consigue publicar un evento organizado por ella.  
 
 ![Escenario Cristina](img/Cristina_Escenario.pnmg.png)
 
@@ -74,7 +74,7 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 
 * FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pdf
 
-A partir del análisis de la etapa anterior y de haber realizado la feedback capture grid hemos encontrado muchos puntos a mejorar en la app fever.com, pero nos centraremos principalmente en los aspectos de chat, valoraciones, notificaciones y publicar actividades. En primer lugar realizaremos un sistema de nitificaciones tanto de actividades en las que estemos apuntados y sufran modificaciones como dar la posibilidad de suscriberse a algun tipo de actividad en específico y recibir notificaciones cuando se publiquen nuevas actividades. En segundo lugar creamos un sistema de valoraciones y comentarios presente en todas las actividades no como actualemente que solo esta presente en algunas y finalmente simplificar el proceso de de publicar una publicación estableciendo unos campos clave obligatorio sin tener que pasar por un registro  específico anterior.
+A partir del análisis de la etapa anterior y de haber realizado la feedback capture grid hemos encontrado muchos puntos a mejorar en la app fever.com, pero nos centraremos principalmente en los aspectos de chat, valoraciones, notificaciones y publicar actividades. En primer lugar realizaremos un sistema de nitificaciones tanto de actividades en las que estemos apuntados y sufran modificaciones como dar la posibilidad de suscriberse a algun tipo de actividad en específico y recibir notificaciones cuando se publiquen nuevas actividades. En segundo lugar creamos un sistema de valoraciones y comentarios presente en todas las actividades no como actualemente que solo esta presente en algunas y finalmente simplificar el proceso de de publicar una publicación estableciendo unos campos clave obligatorio sin tener que pasar por un registro  específico anterior.  
 
 ![Feedback CaptureGrid](img/Feedback_CaptureGrid.png)
 
@@ -82,12 +82,12 @@ A partir del análisis de la etapa anterior y de haber realizado la feedback cap
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones. Pero al tener dos tipos de usuarios he decidido usar la técnica de User/task matrix.
+Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones. Pero al tener dos tipos de usuarios he decidido usar la técnica de User/task matrix.  
 
-* User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf
+* User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf  
 ![Task Matrix](img/TaskMatrix.png)
 
-* SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf
+* SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 ![SiteMap](img/SiteMap.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
