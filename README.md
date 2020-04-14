@@ -35,6 +35,9 @@ Una vez has encontrado la actividad deseada se pueden leer las condiciones gener
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+
+* Enlace personas: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Personas.pdf  
+
 La primera persona que he escogido ha sido Pedro Borras, este joven estudiante que vive en un pueblo representa al conjunto de individuos que viven alejados de oportunidades de ocio diferentes y originales y se ve obligado a trasladarse a ciudades más grandes donde la oferta es mayor.  
 
 ![Perfil Pedro](img/Pedro_Perfil.png)
@@ -43,7 +46,6 @@ En cambio Cristina Pascual tiene otro perfil, es una chica que ya tiene estudios
 
 ![Perfil Cristina](img/Crisitina_Perfil.png)
 
-Enlace personas: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Personas.pdf   
 
 He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
 
