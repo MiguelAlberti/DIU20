@@ -15,7 +15,7 @@ Finalmente el **Site Map** es la técnica más útil en la etapa final.
 ## Propuesta de elementos de diseño o patrones a usar 
 
 #### Mostrar las características principales 
-Para que los usuarios puedan ver las funcionalidades principales una vez abran la aplicación podremos cuatro botones en la parte inferior de la aplicación: Buscar, Añadir actividad, Mis actividades y Perfil; estos botones contendrán texto y iconos que se usan en otras aplicaciones para que sea totalmente intuitivo y el usuario no tenga que aprender otros símbolos.
+Para que los usuarios puedan ver las funcionalidades principales una vez abran la aplicación podremos cuatro botones en la parte inferior de la aplicación: Buscar, Añadir actividad, Mis actividades y Perfil; estos botones contendrán texto y iconos que se usan en otras aplicaciones de Android para que sea totalmente intuitivo y el usuario no tenga que aprender otros símbolos.
 Además en la parte restante de la pantalla ya aparecerán actividades de la ciudad seleccionada en el registro y si ya se hubierán usado filtros en anteriores búsquedas se guardarían y se aplicarián al cargar la página.
 
 #### Navegación dentro de la apliaciones
@@ -45,8 +45,9 @@ El registro será muy sencillo y se podrá realizar de dos formas:
 #### Usabilidad y facilidad de compresión
  - En toda la aplicación se utilizará un vocabulario simple e intuitivo con frases como: 'Saber más' o 'Compra Ahora' y en ningún caso se utilizará terminología complicada, se puede dar el caso que dentro de la descripción de una actividad los usuarios si que usen vocabulario o términos de algún tema en específico.
  - Se contará con etiquetas de texto y teclas visuales para conseguir que la aplicación sea mas atractiva visualmente y a la vez más intuitiva de usar .
- - Como hemos nombrado anteriormente  facilidad a la hora de agregar y administrar formas de pago.
+ - Como hemos nombrado anteriormente  facilidad a la hora de modificar, agregar y eliminar formas de pago.
  - Si durante el uso de la aplicación se accede a otras aplicaciones o se sale de la misma sin llegar a cerrarla se mantendrá la página en la cual estaba el usuario.
+ - 
     
 
 
