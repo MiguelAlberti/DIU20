@@ -47,8 +47,6 @@ El registro será muy sencillo y se podrá realizar de dos formas:
  - Se contará con etiquetas de texto y teclas visuales para conseguir que la aplicación sea mas atractiva visualmente y a la vez más intuitiva de usar .
  - Como hemos nombrado anteriormente  facilidad a la hora de modificar, agregar y eliminar formas de pago.
  - Si durante el uso de la aplicación se accede a otras aplicaciones o se sale de la misma sin llegar a cerrarla se mantendrá la página en la cual estaba el usuario.
- - 
-    
 
 
 
@@ -56,4 +54,7 @@ El registro será muy sencillo y se podrá realizar de dos formas:
 
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+En la realización de esta práctica hemos obtenido dos conocimientos muy valiosos, en primer lugar hemos podido observar el proceso que han seguido los diseñadores de MuseMap y como las diferentes técnicas que han usado les han aportado diferentes conocimiento para ir ajustando su aplicación para lograr una buen producto. En segundo lugar hemos visto como las técnicas que usaban en MuseMap también nos eran de mucha utilidad además de aprender a resumir de una manera atractiva en un video la propuesta de nuestro producto.
+El mayor problema que he tenido ha sido a la hora de diseñar los patrones de diseño, ya que, nunca había realizado algo similar y tuve que buscar mucha información y tomar muchas decisiones.
  
