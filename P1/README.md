@@ -2,7 +2,7 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](https://github.com/MiguelAlberti/DIU20/blob/master/img/1a_Competitive.png) 1.a Competitive Analysis
+1.a Competitive Analysis
 -----
 Las aplicaciones que me han sido asignadas son aquellas en las cuales se facilita la búsqueda de actividades de ocio que se ajusten a los gustos de cada individuo.
 Este conjunto de aplicaciones se caracterizan por ofrecer una lista de actividades divididas por unos filtros, comúnmente filtros de tipo de actividad como: deporte, gastronomía, arte, solidarias, etc; junto a filtros que acotan la zona geográfica donde buscar y filtros para acotar las fechas.
@@ -38,7 +38,7 @@ La historia de Cristina Pascual representa a una chica que ha acabado una carrer
 
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+1.d Usability Review
 ----
 * Página analizada: https://feverup.com/
 * Enlace documento de Usability: https://github.com/MiguelAlberti/DIU20/blob/master/P1/Usability-review-template.xls
