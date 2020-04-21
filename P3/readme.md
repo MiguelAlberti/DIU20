@@ -53,12 +53,12 @@ El registro será muy sencillo y se podrá realizar de dos formas:
  ## Elementos visuales del diseño 
  
  ##### Colores 
- Después de haber investigado un poco nos hemos dado cuenta que los colores tienen un papel fundamental en las personas para tomar decisiones hemos encontrado estas paletas de colores:    
- ![Colores](https://github.com/MiguelAlberti/DIU20/blob/master/img/Colores.jpg)    
- Se usarán colores más 
+ Después de haber investigado un poco nos hemos dado cuenta que los colores tienen un papel fundamental en las personas para tomar decisiones, hemos encontrado esta paleta fresca y armoniosa donde predominan el azul claro y el azul turquí y estan complemetados con el blanco y el negro     
+ ![Colores](https://paletasdecolores.com/wp-content/uploads/2015/08/cvetovaya-palitra-2275.png)    
+  
  
  ##### Iconos 
- Los iconos que utilizaremos en nuestra aplicación serán los msotrados en el **labelling**, aunque puedens sufrir pequeñas modificaciones de tamaño o color cuando se lleve a cabo la implementación 
+ Los iconos que utilizaremos en nuestra aplicación serán los msotrados en el **labelling**, aunque puedens sufrir pequeñas modificaciones de tamaño o color ajustandolos a los colores seleccionados en el apartado anterior.
  
   ##### Letras
  ![Colores](https://i2.wp.com/www.dafontfree.io/wp-content/uploads/2017/12/Alcubierre-full-image.jpg?resize=1125%2C7905&ssl=1)
