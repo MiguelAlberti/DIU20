@@ -14,11 +14,13 @@ Finalmente el **Site Map** es la técnica más útil en la etapa final.
 
 ## Propuesta de elementos de diseño o patrones a usar 
 
-#### Mostrar las características principales 
+## Decisiones de diseño 
+
+##### Mostrar las características principales 
 Para que los usuarios puedan ver las funcionalidades principales una vez abran la aplicación podremos cuatro botones en la parte inferior de la aplicación: Buscar, Añadir actividad, Mis actividades y Perfil; estos botones contendrán texto y iconos que se usan en otras aplicaciones de Android para que sea totalmente intuitivo y el usuario no tenga que aprender otros símbolos.
 Además en la parte restante de la pantalla ya aparecerán actividades de la ciudad seleccionada en el registro y si ya se hubierán usado filtros en anteriores búsquedas se guardarían y se aplicarián al cargar la página.
 
-#### Navegación dentro de la apliaciones
+##### Navegación dentro de la apliaciones
 La navegación dentro de la aplicación: 
  - En todas las páginas de la aplicación siempre estarán visibles las cuatro opciones nombradas en el apartado anterior y se podrá acceder a ellas pulsándolas.
  - Para navegar dentro de las diferentes pantallas se mantendrá el estandar usado por la aplicaciones de android, es decir, según como deslices el dedo la página se deslizará vertical o horizontalmene y se podrá acceder a diferentes pantallas pulsando sobre los iconos.
@@ -26,7 +28,7 @@ La navegación dentro de la aplicación:
      * Si nos encontramos dentro de una actividad a la cual hemos accedido por 'Mis Actividades' volveremos a esta página y no a la principal, será necesario darle dos veces al botón 'Atrás'.
      * Si estamos en el momento de pago y volvemos atrás volveremos a la actividad, será necesario darle dos veces para volver a la página principal
 
-#### Formas de pago 
+##### Formas de pago 
 Una vez un usuario se ha decantado por una aplicación podrá acceder a pagarla pulsando el botón 'Compra Ahora' el cual le direccionará a una página donde le aparecerán las siguientes maneras de pagar:
 - PayPal
 - Visa
@@ -35,18 +37,28 @@ Una vez un usuario se ha decantado por una aplicación podrá acceder a pagarla 
 - Cuenta Corriente  
 De estas cinco maneras de pago saldrá como seleccionada la que tenga establecida en 'Perfil' -> 'Mis preferencias' -> 'Métodos de Pago', página en la cual podrá agregar, modificar y eliminar en cualquier momento cualquier método de pago. Esto evitará que cada vez que el usuario quiera pagar una actividad deba introducir los datos y se solo tenga que seleccionar el método de pago que quiere usar en esa ocasión.
 
-#### Registro
+##### Registro
 El registro será muy sencillo y se podrá realizar de dos formas:
 - Si se tiene una cuenta google se podrá acceder introduciendo el correo y la correspondiente contraseña y seguidamente verificando el correo que enviaremos a su cuenta, nostros nos encargaremos de recoger los datos y añadírselos al perfil de fever.
 - Si no se tiene cuenta google se tendrá que rellenar un formulario que tendrá las siguientes características:
     * Los errores en el formulario se mostrarán en tiempo real y no se esperara al final 
     * El teclado que se mostrará coincidirá con las entradas de texto requeridas, es decir, en el caso que se tenga que introducir un número de teléfono aparecerá el teclado numérico.
    
-#### Usabilidad y facilidad de compresión
+##### Usabilidad y facilidad de compresión
  - En toda la aplicación se utilizará un vocabulario simple e intuitivo con frases como: 'Saber más' o 'Compra Ahora' y en ningún caso se utilizará terminología complicada, se puede dar el caso que dentro de la descripción de una actividad los usuarios si que usen vocabulario o términos de algún tema en específico.
  - Se contará con etiquetas de texto y teclas visuales para conseguir que la aplicación sea mas atractiva visualmente y a la vez más intuitiva de usar .
  - Como hemos nombrado anteriormente  facilidad a la hora de modificar, agregar y eliminar formas de pago.
  - Si durante el uso de la aplicación se accede a otras aplicaciones o se sale de la misma sin llegar a cerrarla se mantendrá la página en la cual estaba el usuario.
+ 
+ ## Decsiones de iconos y colores 
+ 
+ ##### Colores 
+ Después de haber investigado un poco nos hemos dado cuenta que los colores tienen un papel fundamental en las personas para tomar decisiones hemos encontrado estas paletas de colores:
+ ![Colores](https://github.com/MiguelAlberti/DIU20/blob/master/img/Colores.jpg)
+ 
+ ##### Iconos 
+ 
+ 
 
 
 
