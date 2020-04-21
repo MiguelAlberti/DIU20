@@ -100,7 +100,7 @@ Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para 
 
 ![Labelling](img/Labelling.jpg)
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/P2/Wireframes.png) 2.d Wireframes
 -----
 * Bodetos Lo-Fi: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Bocetos%20%20Lo-Fi.pdf
 
