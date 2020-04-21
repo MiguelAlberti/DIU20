@@ -1,7 +1,7 @@
 ## Paso 2. UX Design  
 
 
-![Método UX](/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX]2.a Feedback Capture Grid
 ----
 
 * FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pdf
@@ -11,22 +11,22 @@ A partir del análisis de la etapa anterior y de haber realizado la feedback cap
 ![Feedback CaptureGrid](https://github.com/MiguelAlberti/DIU20/blob/master/img/Feedback_CaptureGrid.png)
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX] 2.b Tasks & Sitemap 
 -----
 * User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf  
 * SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 
 Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones. Pero al tener dos tipos de usuarios he decidido usar la técnica de User/task matrix.  
 
-![Task Matrix](img/TaskMatrix.png)
+![Task Matrix](https://github.com/MiguelAlberti/DIU20/blob/master/img/TaskMatrix.png)
 
-![SiteMap](img/SiteMap.png)
+![SiteMap](https://github.com/MiguelAlberti/DIU20/blob/master/img/SiteMap.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 * Labelling: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 
-![Labelling](img/Labelling.jpg)
+![Labelling](https://github.com/MiguelAlberti/DIU20/blob/master/img/Labelling.jpg)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
