@@ -5,10 +5,9 @@ Grupo: DIU3.MAP  Curso: 2019/20
 
 Proyecto: FeverDIU
 
-Descripción: 
-Para este proyecto he seleccionado la página web https://feverup.com/ especialista en promocionar actividades de ocio en las principales ciudades del mundo. Es una página muy completa cuenta con todo tipo de actividades donde tanto gente con pocos recursos como gente dispuesta a gastarse mucho puede encontrar planes.
+Descripción: En este proyecto vamos a realizar una aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones apareciendo en una sección específica, además añadiremos unos protocolos fáciles para poder registrarse, pagar o publicar actividades en la aplicación.
+Logotipo:    
 
-Logotipo: 
 ![Logo fever](img/Fever_Logo.png)
 
 Miembros
