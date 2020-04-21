@@ -14,7 +14,7 @@ Finalmente el **Site Map** es la técnica más útil en la etapa final.
 
 ## Propuesta de elementos de diseño o patrones a usar 
 
-## Decisiones de diseño 
+## Diseño 
 
 ##### Mostrar las características principales 
 Para que los usuarios puedan ver las funcionalidades principales una vez abran la aplicación podremos cuatro botones en la parte inferior de la aplicación: Buscar, Añadir actividad, Mis actividades y Perfil; estos botones contendrán texto y iconos que se usan en otras aplicaciones de Android para que sea totalmente intuitivo y el usuario no tenga que aprender otros símbolos.
@@ -50,15 +50,18 @@ El registro será muy sencillo y se podrá realizar de dos formas:
  - Como hemos nombrado anteriormente  facilidad a la hora de modificar, agregar y eliminar formas de pago.
  - Si durante el uso de la aplicación se accede a otras aplicaciones o se sale de la misma sin llegar a cerrarla se mantendrá la página en la cual estaba el usuario.
  
- ## Decsiones de iconos y colores 
+ ## Elementos visuales del diseño 
  
  ##### Colores 
- Después de haber investigado un poco nos hemos dado cuenta que los colores tienen un papel fundamental en las personas para tomar decisiones hemos encontrado estas paletas de colores:
- ![Colores](https://github.com/MiguelAlberti/DIU20/blob/master/img/Colores.jpg)
+ Después de haber investigado un poco nos hemos dado cuenta que los colores tienen un papel fundamental en las personas para tomar decisiones hemos encontrado estas paletas de colores:    
+ ![Colores](https://github.com/MiguelAlberti/DIU20/blob/master/img/Colores.jpg)    
+ Se usarán colores más 
  
  ##### Iconos 
+ Los iconos que utilizaremos en nuestra aplicación serán los msotrados en el **labelling**, aunque puedens sufrir pequeñas modificaciones de tamaño o color cuando se lleve a cabo la implementación 
  
- 
+  ##### Letras
+ ![Colores](https://i2.wp.com/www.dafontfree.io/wp-content/uploads/2017/12/Alcubierre-full-image.jpg?resize=1125%2C7905&ssl=1)
 
 
 
