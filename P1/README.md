@@ -1,6 +1,4 @@
-## DIU - Practica1, entregables
-
-## Paso 1. UX Desk Research & Analisis 
+## DIU - Practica1
 
 1.a Competitive Analysis
 -----
