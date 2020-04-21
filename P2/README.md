@@ -1,7 +1,7 @@
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/P2/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 * FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pdf
