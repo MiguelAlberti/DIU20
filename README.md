@@ -109,7 +109,7 @@ En este apartado podremos ver el proceso que siguieron los desarrolladores de la
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-* Decisiones de diseño: https://github.com/MiguelAlberti/DIU20/tree/master/P3
+* Decisiones de diseño: https://github.com/MiguelAlberti/DIU20/blob/master/P3/Decisiones%20de%20dise%C3%B1o.pdf
 
 En el apartado de decisiones de diseño podremos observar dos secciones, una primera que hace referencia a la navegación, opciones de pago, accesibilidad etc y otra segunda en la cual especificamos los elementos visuales de nuestra aplicación: colores, iconos y tipografía.
 
