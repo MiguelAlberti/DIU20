@@ -41,7 +41,7 @@ La primera persona que he escogido ha sido Pedro Borras, este joven estudiante q
 
 En cambio Cristina Pascual tiene otro perfil, es una chica que ya tiene estudios e intenta emprender y crear una empresa capaz de organizar o publicitar eventos culturales, este tipo de usuarios representan a un conjunto de gente que a través de plataformas ya existentes quieren hacerse un hueco en el mercado.  
 
-He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente.
+He escogido estos dos perfiles porque son casos bastante diferentes y porque creo que son dos situaciones que se pueden dar con gran facilidad actualmente. Esta técnica nos ha sido muy útil para poder contestar a la pregunta de ¿Para quien diseñamos?
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -67,7 +67,7 @@ La historia de Cristina Pascual representa a una chica que ha acabado una carrer
 
 * FeedbackCaptureGrid: https://github.com/MiguelAlberti/DIU20/blob/master/P2/FeedbackCaptureGrid.pdf
 
-A partir del análisis de la etapa anterior y de haber realizado la feedback capture grid hemos encontrado muchos puntos a mejorar en la app fever.com, pero nos centraremos principalmente en los aspectos de chat, valoraciones, notificaciones y publicar actividades. En primer lugar realizaremos un sistema de nitificaciones tanto de actividades en las que estemos apuntados y sufran modificaciones como dar la posibilidad de suscriberse a algun tipo de actividad en específico y recibir notificaciones cuando se publiquen nuevas actividades. En segundo lugar creamos un sistema de valoraciones y comentarios presente en todas las actividades no como actualemente que solo esta presente en algunas y finalmente simplificar el proceso de de publicar una publicación estableciendo unos campos clave obligatorio sin tener que pasar por un registro  específico anterior.  
+A partir del análisis de la etapa anterior y de haber realizado la feedback capture grid hemos encontrado muchos puntos a mejorar en la app fever.com, pero nos centraremos principalmente en los aspectos de **chat**, **valoraciones**, **notificaciones al publicar/modificar actividades**. En primer lugar realizaremos un sistema de nitificaciones tanto de actividades en las que estemos apuntados y sufran modificaciones como dar la posibilidad de suscriberse a algun tipo de actividad en específico y recibir notificaciones cuando se publiquen nuevas actividades. En segundo lugar creamos un sistema de valoraciones y comentarios presente en todas las actividades no como actualemente que solo esta presente en algunas y finalmente simplificar el proceso de de publicar una publicación estableciendo unos campos clave obligatorio sin tener que pasar por un registro  específico anterior.  
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
@@ -75,12 +75,16 @@ A partir del análisis de la etapa anterior y de haber realizado la feedback cap
 * User/task matrix: https://github.com/MiguelAlberti/DIU20/blob/master/P2/User%20-%20task%20matrix.pdf  
 * SiteMap: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
 
+EN estos documentos podremos ver las tareas junto a su prioridad para cad ausuario además de como se realizará la navegación en nuestra aplicación
+
 Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para el mismo grupo de usuarios usaríamos User/Task flow, ya que, no haría falta distinguirlos porque todos realizarían las mismas funciones y por tanto sería más interesante centrarse en las tareas y sus relaciones. Pero al tener dos tipos de usuarios he decidido usar la técnica de User/task matrix.  
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 * Labelling: https://github.com/MiguelAlberti/DIU20/blob/master/P2/Arquitectura%20de%20la%20informaci%C3%B3n.pdf  
+
+En el documento podremos ver la descripción detallada de todos los iconos o palabras utilizadas en la navegación.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -93,6 +97,10 @@ Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+* Resumen MuseMap: https://github.com/MiguelAlberti/DIU20/tree/master/P3
+
+En este apartado podremos ver el proceso que siguieron los desarrolladores de la aplicación MuseMap, además de sus técnicas y de una valoración en la cual destacamos las técnicas más importantes y la utilidad que les han aportado
+
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
@@ -101,8 +109,9 @@ Sino tuviéramos colectivos, es decir, toda la aplicación fuera destinada para 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+* Decisiones de diseño: https://github.com/MiguelAlberti/DIU20/tree/master/P3
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+En el apartado de decisiones de diseño podremos observar dos secciones, una primera que hace referencia a la navegación, opciones de pago, accesibilidad etc y otra segunda en la cual especificamos los elementos visuales de nuestra aplicación: colores, iconos y tipografía.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
