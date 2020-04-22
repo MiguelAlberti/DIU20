@@ -103,9 +103,7 @@ En este apartado podremos ver el proceso que siguieron los desarrolladores de la
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+La nueva aplicación mantendrá el logotipo de la página web actual, aunque podría ser que sufriese modificaciones de color para ajustarlo a los colores seleccionados en el apartado 3.c Guidelines 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
