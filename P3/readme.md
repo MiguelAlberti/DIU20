@@ -61,7 +61,7 @@ El registro será muy sencillo y se podrá realizar de dos formas:
  Los iconos que utilizaremos en nuestra aplicación serán los msotrados en el **labelling**, aunque puedens sufrir pequeñas modificaciones de tamaño o color ajustandolos a los colores seleccionados en el apartado anterior.
  
   ##### Letras
- Hemos selccionado la tipografía **Alcubierre** tipografía que pertenece a las Sans-Serif 
+ Hemos selccionado la tipografía **Alcubierre** tipografía que pertenece al estilo Sans-Serif 
  ![Colores](https://i2.wp.com/www.dafontfree.io/wp-content/uploads/2017/12/Alcubierre-full-image.jpg?resize=1125%2C7905&ssl=1)
 
 
