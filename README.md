@@ -5,7 +5,7 @@ Grupo: DIU3.MAP  Curso: 2019/20
 
 Proyecto: CoNect
 
-Descripción: En este proyecto vamos a realizar una aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones apareciendo en una sección específica, además añadiremos unos protocolos fáciles para poder registrarse, pagar o publicar actividades en la aplicación.    
+Descripción: En este proyecto vamos a realizar una aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones, además añadiremos unos protocolos fáciles para poder registrarse, pagar o publicar actividades en la aplicación.    
 Logotipo:    
 
 ![Logo fever](img/Logo.png)
