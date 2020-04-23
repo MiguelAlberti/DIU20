@@ -3,12 +3,12 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3.MAP  Curso: 2019/20 
 
-Proyecto: FeverDIU
+Proyecto: CoNect
 
 Descripción: En este proyecto vamos a realizar una aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones apareciendo en una sección específica, además añadiremos unos protocolos fáciles para poder registrarse, pagar o publicar actividades en la aplicación.    
 Logotipo:    
 
-![Logo fever](img/Fever_Logo.png)
+![Logo fever](img/Logo.png)
 
 Miembros
  *  Miguel Albertí Pons 
@@ -103,7 +103,10 @@ En este apartado podremos ver el proceso que siguieron los desarrolladores de la
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-La nueva aplicación mantendrá el logotipo de la página web actual, aunque podría ser que sufriese modificaciones de color para ajustarlo a los colores seleccionados en el apartado 3.c Guidelines 
+La nueva aplicación tendra el logotipo que se presenta al inicio del documento, aunque podría ser que sufriese modificaciones de color para ajustarlo a los colores seleccionados en el apartado 3.c Guidelines 
+
+![Logo fever](img/Logo.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
