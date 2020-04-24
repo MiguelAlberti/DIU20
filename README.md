@@ -97,7 +97,7 @@ En el documento podremos ver la descripción detallada de todos los iconos o pal
 
 * Resumen MuseMap: https://github.com/MiguelAlberti/DIU20/tree/master/P3
 
-En este apartado podremos ver el proceso que siguieron los desarrolladores de la aplicación MuseMap, además de sus técnicas y de una valoración en la cual destacamos las técnicas más importantes y la utilidad que les han aportado
+En este apartado podremos ver el proceso que siguieron los desarrolladores de la aplicación MuseMap, además de sus técnicas y de una valoración en la cual destacamos las técnicas más importantes desde nuestro punto de vista y que aportación ha tenido cada técnica sobre el proyecto.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
