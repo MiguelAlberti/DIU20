@@ -68,6 +68,8 @@ El registro será muy sencillo y se podrá realizar de dos formas:
 
 ## Historia en Video del UX Case Study
 
+* Enlace video: https://www.youtube.com/watch?v=iTENlJVFciE&feature=youtu.be
+
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
