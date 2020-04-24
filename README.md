@@ -115,7 +115,8 @@ En el apartado de decisiones de diseño podremos observar dos secciones, una pri
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+* Enlace video: https://www.youtube.com/watch?v=iTENlJVFciE&feature=youtu.be
 
 ## Paso 4. Evaluación 
 
