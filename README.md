@@ -117,7 +117,7 @@ En el apartado de decisiones de diseño podremos observar dos secciones, una pri
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
-En esta etapa me ha asignado tres casos para que lleve a cabo un análisis:
+En esta etapa me ha asignado tres casos para que lleve a cabo un análisis:    
 DIU1: https://github.com/Gsandoval96/DIU20    
 DIU2: https://github.com/pserrano778/DIU20    
 DIU3: https://github.com/NaroaAlonso/DIU20
