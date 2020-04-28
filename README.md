@@ -5,20 +5,14 @@ Grupo: DIU3.MAP  Curso: 2019/20
 
 Proyecto: CoNect
 
-Descripción: En este proyecto vamos a realizar una aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones, además añadiremos unos protocolos fáciles para poder registrarse, pagar o publicar actividades en la aplicación.    
+Descripción:    En este proyecto vamos a realizar una aplicación móvil donde se priorizará los sistemas de valoraciones y la comodidad para publicar o ver las actividades que sufren modificaciones, además añadiremos unos protocolos fáciles para poder registrarse, pagar o publicar actividades en la aplicación. 
 Logotipo:    
 
-![Logo fever](img/Logo.png)
+![Logo CoNect](img/Logo.png)
 
 Miembros
  *  Miguel Albertí Pons 
 
------ 
-
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 # Proceso de Diseño 
 
