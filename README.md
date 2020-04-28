@@ -117,11 +117,11 @@ En el apartado de decisiones de diseño podremos observar dos secciones, una pri
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
+En esta etapa me ha asignado tres casos para que lleve a cabo un análisis:
+DIU1: https://github.com/Gsandoval96/DIU20    
+DIU2: https://github.com/pserrano778/DIU20    
+DIU3: https://github.com/NaroaAlonso/DIU20
 
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
