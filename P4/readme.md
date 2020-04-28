@@ -19,7 +19,8 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
-	Describe la experiencia 1
+	Describe la experiencia 1    
+Pedro Borras si quisiera acceder a los servicios primium de la aplicación y no tuviese una cuenta PayPal seguramente no pagaría y por tanto perderiais posibles clientes premium
 
 	Describe la experiencia 2
 
