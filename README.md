@@ -144,17 +144,6 @@ En el apartado de decisiones de diseño podremos observar dos secciones, una pri
 >>> Valoración personal 
 
 
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
 
 ## Conclusión final / Valoración de las prácticas
 
