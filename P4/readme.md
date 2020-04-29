@@ -21,7 +21,7 @@ Como puntos débiles podriamos destacar la poca relación que hay entre el SiteM
 El primer punto fuerte a valorar es el video, me parece original vender la aplicación a través de una conversación dinámica entre las dos componentes del equipo, también me gustaría destacar la matriz de tareas, matriz super completa con un gran número de grupos de usuarios además de un buen sistema para priorizar/valorar las tareas. Finalmente me gustaría destacar la relación directa que hay entre el SiteMap y los bocetos
 
 ##### Puntos débiles 
-Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer no expresan problemas reales de navegación o utilización de la propia aplicación. También me gustaría mencionar que los iconos que se utilizan en los bocetos no están explicados en ninguna parte y el último punto débil a remarcar es la no presentación de una tipografía o paleta de colores para la aplicación, hecho que no entiendo, debido a que en los bocetos usaís unos colores y una tipografía muy especifica.
+Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer no expresan problemas muy significativos sobre la navegación o utilización de la propia aplicación. También me gustaría mencionar que los iconos que se utilizan en los bocetos no están explicados en ninguna parte y el último punto débil a remarcar es la no presentación de una tipografía o paleta de colores para la aplicación, hecho que no entiendo, debido a que en los bocetos usan unos colores y una tipografía muy especifica.
 
 ## Caso 3
 
