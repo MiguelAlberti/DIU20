@@ -30,9 +30,10 @@ Descripcion y hoja de valoración.
 ## User Testing
 
 	Experiencia 1:    
-Pedro Borras si quisiera acceder a los servicios primium de la aplicación y no tuviese una cuenta PayPal seguramente no pagaría y por tanto perderiais posibles clientes premium
+	Pedro Borras si quisiera acceder a los servicios prémium de la aplicación y no tuviese una cuenta PayPal seguramente no pagaría 	y por tanto perderíais posibles clientes prémium
 
-	Describe la experiencia 2
+	Describe la experiencia 2     
+	Si Cristina tiene algunas dudas sobre la aplicación y se dirige al asistente proporcionado tardará mucho en encontrar la 		'pregunta frecuente' en el caso de que este, ya que no están categorizadas ni existe la posibilidas de filtrarlas, hecho que 		quizá haga que Cristina se quede sin la resolver su duda
 
 	Describe la experiencia 3
 
