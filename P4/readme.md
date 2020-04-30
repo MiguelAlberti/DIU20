@@ -25,7 +25,15 @@ Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer 
 
 ## Caso 3
 
-Descripcion y hoja de valoración.   
+#### Descripción
+#### Valoración
+##### Puntos fuertes 
+Los puntos más fuertes de la práctica proceden ambos de la práctica tres. En primer lugar me gustaría destacar el trabajo realizado con el logotipo, ya que se ha diseñado un logotipo atractivo además de que este logotipo se ha mostrado como quedaría en diferentes objetos/dispositivos y en segundo lugar me gustaría destacar el video donde añadir una música y en vez de enseñar el readme enseñar fotos del trabajo realizado ha hecho que quede muy bien.
+
+##### Puntos débiles 
+Como puntos débiles me gustaría destacar los dos journeyMap donde no se presenta ningún problema relacionado con la aplicación, el usability review del cual no se realiza ninguna valoración del análisis hecho y la no aparición de una propuesta donde explique los ítems que va a mejorar.
+
+
 
 ## User Testing
 
@@ -37,6 +45,7 @@ Pedro Borras si quisiera acceder a los servicios prémium de la aplicación y no
 Si Cristina tiene algunas dudas sobre la aplicación y se dirige al asistente proporcionado tardará mucho en encontrar la 		'pregunta frecuente' en el caso de que este, ya que no están categorizadas ni existe la posibilidas de filtrarlas, hecho que 		quizá haga que Cristina se quede sin la resolver su duda
 
 	Describe la experiencia 3
+Pedro Borras quiere conseguir la versión prémium pero no encuentra en la aplicación ninguna pestaña ni sitio donde poder realizar el pago ni donde se explique que ventajas tiene un usuario prémium, al no poder acceder a los servicios prémium abandona la aplicación
 
 
 ## Conclusiones
