@@ -127,7 +127,7 @@ DIU3: https://github.com/NaroaAlonso/DIU20
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+* user testing: https://github.com/MiguelAlberti/DIU20/tree/master/P4
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
