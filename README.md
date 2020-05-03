@@ -133,7 +133,7 @@ DIU3: https://github.com/NaroaAlonso/DIU20
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+![Podio](https://github.com/MiguelAlberti/DIU20/blob/master/img/Podio.png)
 
 >>> Valoración personal 
 
