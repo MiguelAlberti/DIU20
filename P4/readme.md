@@ -4,7 +4,8 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 
 ## Caso 1
-
+* Equipo: pserrano
+* Grupo: DIU2
 #### Descripción
 #### Valoración
 ##### Puntos fuertes 
@@ -12,10 +13,11 @@ Como punto fuerte me gustaría destacar el video, se nota que hay edición detr�
 ##### Puntos débiles 
 Como puntos débiles podriamos destacar la poca relación que hay entre el SiteMap y algún boceto, además de no explicar en el labelling los iconos que aparecen en los bocetos, como úlimo punto débil me gustaría destacar la repetición del problema de no encontrar información sobre el propiertario de la vivienda en ambos Journey Maps.
 
-* Hoja de evaluación: 
+* Hoja de evaluación: DIU2.pserrano_review.xls
 
 ## Caso 2
-
+* Equipo: Mayko 
+* Grupo: DIU3
 #### Descripción
 #### Valoración
 ##### Puntos fuertes 
@@ -24,11 +26,13 @@ El primer punto fuerte a valorar es el video, me parece original vender la aplic
 ##### Puntos débiles 
 Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer no expresan problemas muy significativos sobre la navegación o utilización de la propia aplicación. También me gustaría mencionar que los iconos que se utilizan en los bocetos no están explicados en ninguna parte y el último punto débil a remarcar es la no presentación de una tipografía o paleta de colores para la aplicación, hecho que no entiendo, debido a que en los bocetos usan unos colores y una tipografía muy especifica.
 
-* Hoja de evaluación: 
+* Hoja de evaluación: DIU3.Mayko_review.xls
 
 ## Caso 3
 
 #### Descripción
+* Equipo: Qwery
+* Grupo: DIU1
 #### Valoración
 ##### Puntos fuertes 
 Los puntos más fuertes de la práctica proceden ambos de la práctica tres. En primer lugar me gustaría destacar el trabajo realizado con el logotipo, ya que se ha diseñado un logotipo atractivo además de que este logotipo se ha mostrado como quedaría en diferentes objetos/dispositivos y en segundo lugar me gustaría destacar el video donde añadir una música y en vez de enseñar el readme enseñar fotos del trabajo realizado ha hecho que quede muy bien.
@@ -36,7 +40,7 @@ Los puntos más fuertes de la práctica proceden ambos de la práctica tres. En 
 ##### Puntos débiles 
 Como puntos débiles me gustaría destacar los dos journeyMap donde no se presenta ningún problema relacionado con la aplicación, el usability review del cual no se realiza ninguna valoración del análisis hecho y la no aparición de una propuesta donde explique los ítems que va a mejorar.
 
-* Hoja de evaluación: 
+* Hoja de evaluación: DIU1.QWERTY_review.xls
 
 
 ## User Testing
