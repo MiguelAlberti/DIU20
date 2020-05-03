@@ -29,10 +29,9 @@ Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer 
 * Hoja de evaluación: DIU3.Mayko_review.xls
 
 ## Caso 3
-
-#### Descripción
 * Equipo: Qwery
 * Grupo: DIU1
+#### Descripción
 #### Valoración
 ##### Puntos fuertes 
 Los puntos más fuertes de la práctica proceden ambos de la práctica tres. En primer lugar me gustaría destacar el trabajo realizado con el logotipo, ya que se ha diseñado un logotipo atractivo además de que este logotipo se ha mostrado como quedaría en diferentes objetos/dispositivos y en segundo lugar me gustaría destacar el video donde añadir una música y en vez de enseñar el readme enseñar fotos del trabajo realizado ha hecho que quede muy bien.
