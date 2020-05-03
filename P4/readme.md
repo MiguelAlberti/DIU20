@@ -5,6 +5,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 ## Caso 1
 * Equipo: pserrano
 * Grupo: DIU2
+* Repositorio: https://github.com/pserrano778/DIU20
 * Hoja de evaluación: https://github.com/MiguelAlberti/DIU20/blob/master/P4/DIU2.pserrano_review.xls
 #### Descripción
 #### Valoración
@@ -16,6 +17,7 @@ Como puntos débiles podriamos destacar la poca relación que hay entre el SiteM
 ## Caso 2
 * Equipo: Mayko 
 * Grupo: DIU3
+* Repositorio: https://github.com/NaroaAlonso/DIU20
 * Hoja de evaluación: https://github.com/MiguelAlberti/DIU20/blob/master/P4/DIU3.Mayko_review.xls
 #### Descripción
 #### Valoración
@@ -28,6 +30,7 @@ Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer 
 ## Caso 3
 * Equipo: Qwery
 * Grupo: DIU1
+* Repositorio: https://github.com/Gsandoval96/DIU20
 * Hoja de evaluación: https://github.com/MiguelAlberti/DIU20/blob/master/P4/DIU1.QWERTY_review.xls
 #### Descripción
 #### Valoración
