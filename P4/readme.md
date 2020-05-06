@@ -8,11 +8,12 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 * Repositorio: https://github.com/pserrano778/DIU20
 * Hoja de evaluación: https://github.com/MiguelAlberti/DIU20/blob/master/P4/DIU2.pserrano_review.xls
 #### Descripción
+Este equipo ha presentado el análisis de páginas que como función principal tienen el objetivo de encontrar compañeros de piso y más específicamente han realizado el análisis de **habitoom**. Una vez han realizado el análisis han decidido mejorar la página anterior ofreciendo a los individuos más flexibilidad a la hora de escoger le periodo de estancia, una mejora del sistema de valoración y comentarios y añadir información relevante sobre los usuarios, ya que, es un factor clave a la hora de compartir piso
 #### Valoración
-##### Puntos fuertes 
-Como punto fuerte me gustaría destacar el video, se nota que hay edición detrás y sigue unas pautas muy buenas que ayudan a dejar la propuesta de valor muy clara, también me ha gustado mucho el Competitive Analysis por los númerosos ejemplos que ha puesto y las personas que ha creado, ya que, se podrían usar en el desarrollo de muchas aplicaciones
-##### Puntos débiles 
-Como puntos débiles podriamos destacar la poca relación que hay entre el SiteMap y algún boceto, además de no explicar en el labelling los iconos que aparecen en los bocetos, como úlimo punto débil me gustaría destacar la repetición del problema de no encontrar información sobre el propiertario de la vivienda en ambos Journey Maps.
+##### Puntos fuertes
+Como punto fuerte me gustaría destacar el video, se nota que hay edición detrás y sigue unas pautas muy buenas que ayudan a dejar la propuesta de valor muy clara, también me ha gustado mucho el Competitive Analysis por los numerosos ejemplos que ha puesto y las personas que ha creado, ya que, se podrían usar en el desarrollo de muchas aplicaciones
+##### Puntos débiles
+Como puntos débiles podríamos destacar la poca relación que hay entre el SiteMap y algún boceto, además de no explicar en el labelling los iconos que aparecen en los bocetos, como último punto débil me gustaría destacar la repetición del problema de no encontrar información sobre el propietario de la vivienda en ambos Journey Maps.
 
 ## Caso 2
 * Equipo: Mayko 
