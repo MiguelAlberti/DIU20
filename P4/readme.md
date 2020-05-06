@@ -8,7 +8,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 * Repositorio: https://github.com/pserrano778/DIU20
 * Hoja de evaluación: https://github.com/MiguelAlberti/DIU20/blob/master/P4/DIU2.pserrano_review.xls
 #### Descripción
-Este equipo ha presentado el análisis de páginas que como función principal tienen el objetivo de encontrar compañeros de piso y más específicamente han realizado el análisis de **habitoom**. Una vez han realizado el análisis han decidido mejorar la página anterior ofreciendo a los individuos más flexibilidad a la hora de escoger le periodo de estancia, una mejora del sistema de valoración y comentarios y añadir información relevante sobre los usuarios, ya que, es un factor clave a la hora de compartir piso
+Este equipo ha presentado el análisis de páginas que como función principal tienen el objetivo de encontrar compañeros de piso y más específicamente han realizado el análisis de **habitoom**. Una vez han realizado el análisis han decidido mejorar la página anterior ofreciendo a los individuos más flexibilidad a la hora de escoger el periodo de estancia, una mejora del sistema de valoración y comentarios y añadir información relevante sobre los usuarios, ya que, es un factor clave a la hora de compartir piso.
 #### Valoración
 ##### Puntos fuertes
 Como punto fuerte me gustaría destacar el video, se nota que hay edición detrás y sigue unas pautas muy buenas que ayudan a dejar la propuesta de valor muy clara, también me ha gustado mucho el Competitive Analysis por los numerosos ejemplos que ha puesto y las personas que ha creado, ya que, se podrían usar en el desarrollo de muchas aplicaciones
@@ -21,10 +21,12 @@ Como puntos débiles podríamos destacar la poca relación que hay entre el Site
 * Repositorio: https://github.com/NaroaAlonso/DIU20
 * Hoja de evaluación: https://github.com/MiguelAlberti/DIU20/blob/master/P4/DIU3.Mayko_review.xls
 #### Descripción
+El grupo Mayko tenía como tarea el análisis de aplicaciones relacionadas con compartir experiencias de ocio y poder realizar actividades con otras personas, en su caso se han centrado más en el análisis de páginas web donde la temática principal de las actividades es la cocina y la comida, han realizado una buena comparación cogiendo como referencia **EatWith** aplicación que intentarán mejorar.
+Para mejorar esta aplicación mejorarán la navegación por las diferentes páginas además de mejorar las funcionalidades de los botones de inicio o del panel de ayuda, en último ligar también proponen activar notificaciones por geolocalización.
 #### Valoración
-##### Puntos fuertes 
+##### Puntos fuertes
 El primer punto fuerte a valorar es el video, me parece original vender la aplicación a través de una conversación dinámica entre las dos componentes del equipo, también me gustaría destacar la matriz de tareas, matriz super completa con un gran número de grupos de usuarios además de un buen sistema para priorizar/valorar las tareas. Finalmente me gustaría destacar la relación directa que hay entre el SiteMap y los bocetos
-##### Puntos débiles 
+##### Puntos débiles
 Como puntos débiles me gustaría destacar los Journey Map, ya que a mi parecer no expresan problemas muy significativos sobre la navegación o utilización de la propia aplicación. También me gustaría mencionar que los iconos que se utilizan en los bocetos no están explicados en ninguna parte y el último punto débil a remarcar es la no presentación de una tipografía o paleta de colores para la aplicación, hecho que no entiendo, debido a que en los bocetos usan unos colores y una tipografía muy especifica.
 
 
