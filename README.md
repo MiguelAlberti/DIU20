@@ -132,9 +132,10 @@ DIU3: https://github.com/NaroaAlonso/DIU20
 
 * User testing: https://github.com/MiguelAlberti/DIU20/tree/master/P4
 
+![Método UX](img/Survey.png). 4.c Ranking     
+
 De los tres grupos analizado Mayko ha resultado ser el mejor con un 89% muy cerca del segundo que ha obtenido un 87% y en último lugar a bastante distancia del segundo QWERY con un 69%    
 
-![Método UX](img/Survey.png). 4.c Ranking 
 
 ![Podio](https://github.com/MiguelAlberti/DIU20/blob/master/img/Podio.png)
 
