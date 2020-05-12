@@ -130,7 +130,7 @@ DIU3: https://github.com/NaroaAlonso/DIU20
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-* User testing: https://github.com/MiguelAlberti/DIU20/tree/master/P4
+* User testing: https://github.com/MiguelAlberti/DIU20/tree/master/P4    
 En p4 estan los tres excels en los cuales he realizado los análisis de los tres grupos, en cada excel se podrá ver en que puntos flaquean y cuales son los fuertes, también se podrá ver una puntuación final que será la que usaremos para realizar el ranking.
 
 ![Método UX](img/Survey.png). 4.c Ranking   
