@@ -134,18 +134,10 @@ DIU3: https://github.com/NaroaAlonso/DIU20
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
-----
 
 ![Podio](https://github.com/MiguelAlberti/DIU20/blob/master/img/Podio.png)
 
->>> Valoración personal 
 
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
