@@ -50,13 +50,13 @@ Como puntos débiles me gustaría destacar los dos journeyMap donde no se presen
 
 ## User Testing
 
-Experiencia 1:
+**Experiencia 1**
 Pedro Borras si quisiera acceder a los servicios prémium de la aplicación y no tuviese una cuenta PayPal seguramente no pagaría y por tanto perderíais posibles clientes prémium.
 
-Experiencia 2
+**Experiencia 2**
 Si Cristina tiene algunas dudas sobre la aplicación y se dirige al asistente proporcionado tardará mucho en encontrar la 'pregunta frecuente' en el caso de que este, ya que no están categorizadas ni existe la posibilidad de filtrarlas, hecho que quizá haga que Cristina se quede sin la resolver su duda
 
-Experiencia 3
+**Experiencia 3**
 Pedro Borras quiere conseguir la versión prémium pero no encuentra en la aplicación ninguna pestaña ni sitio donde poder realizar el pago ni donde se explique que ventajas tiene un usuario prémium, al no poder acceder a los servicios prémium abandona la aplicación
 
 
